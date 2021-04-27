@@ -1,4 +1,2 @@
-Understanding the GitHub FLOWW
+Understanding the GitHub flow
 ======
-
-The spice must flowww
