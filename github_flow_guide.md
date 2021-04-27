@@ -1,20 +1,20 @@
 Understanding the GitHub flow
 ======
 
-Create a branch
+Create a branch.
 ------
 
-Add commits
+Add commits.
 ------
 
-Open a Pull Request
+Open a Pull Request.
 ------
 
 Discuss and review your code.
 ------
 
-Deploy
+Deploy.
 ------
 
-Merge
+Merge.
 ------
